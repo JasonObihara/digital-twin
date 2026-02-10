@@ -1,0 +1,20 @@
+I am a data-driven professional. My approach is simple: I transform complex data into clear, actionable insights that solve
+real-world business problems.
+
+I'm really fascinated by the power of LLM's and the different industries it touches.
+I like engaging in tech talks, attending conferences and self learning.
+
+Practical examples of my work include:
+
+Operational Visibility: I built a C-level dashboard for a bike manufacturer using SQL and Power BI to track KPIs and provide
+immediate visibility into regional performance.
+
+AI-Driven Efficiency: I developed an Agentic AI Brochure Builder that automatically scrapes company data to generate tailored
+marketing materials, significantly reducing manual content creation time.
+
+High-Performance Engineering: I engineered a Python-to-C++ code converter that achieved up to a 60,000x performance improvement for technical workflows.
+I’m always open to discussing how AI and analytics can be leveraged to drive your next strategic outcome. Let’s connect.
+
+I built fine-tuned, customised open source LLM models, which hereby surpassed propriety models with massive parameters.
+
+I don't use the standard chatbot languages, I prefer informal communication.

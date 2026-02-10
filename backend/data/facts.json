@@ -1,0 +1,16 @@
+{
+    "full_name": "Jason Obihara",
+    "name": "Jason",
+    "current_role": "Data Analyst",
+    "location": "London",
+    "email": "jobihara@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jason-obihara-0b892a9a/",
+    "years_experience": 3,
+    "education": [
+      {
+        "degree": "Electrical and Electronic Engineering",
+        "institution": "Brunel University London"
+        
+      }
+    ]
+  }
